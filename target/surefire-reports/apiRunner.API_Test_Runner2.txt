@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: apiRunner.API_Test_Runner2
+-------------------------------------------------------------------------------
+Tests run: 40, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.597 s - in apiRunner.API_Test_Runner2

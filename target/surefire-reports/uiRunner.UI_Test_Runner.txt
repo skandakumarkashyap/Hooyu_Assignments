@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: uiRunner.UI_Test_Runner
+-------------------------------------------------------------------------------
+Tests run: 25, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 249.2 s - in uiRunner.UI_Test_Runner
