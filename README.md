@@ -55,10 +55,10 @@ UI tests feature file location:  src/test/resources/userInterfaceTests/AddProduc
   
   
 <h4> Future enhancements and improvements </h4>
-1. Implementation of Driver related functions
-2. Extensive exception handling
-3. Implementing generic assertion methods
-4. Enhancing of steps definition for increased re-usability of the steps
+  <p>1. Implementation of Driver related functions</p>
+  <p>2. Extensive exception handling</p>
+  <p>3. Implementing generic assertion methods</p>
+  <p>4. Enhancing of steps definition for increased re-usability of the steps</p>
 
   
 <h4> Configuration of CI/CD </h4>
