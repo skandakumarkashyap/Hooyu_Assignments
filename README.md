@@ -4,22 +4,22 @@
 
 
 <h4>Required software <h4>
-  Java JDK 8
-  Maven configured in either Eclipse or IntelliJ
-  Git should be installed and configured inorder to clone this project
+  <p>Java JDK 8</p>
+  <p> Maven configured in either Eclipse or IntelliJ</p>
+  <p>Git should be installed and configured inorder to clone this project</p>
   
 <h4> Libraries used in this project </h4>
-  Cucumber to generate BDD test cases (feature files) 
-  Webdrivermanager
-  Selenium to perform web related actions
-  RestAssured for testing REST API  
-  junit to logically group the tests and execute it
+  <p>Cucumber to generate BDD test cases (feature files) </p>
+  <p> Webdrivermanager</p>
+  <p>Selenium to perform web related actions</p>
+  <p>RestAssured for testing REST API</p>  
+  <p>junit to logically group the tests and execute it</p>
   
   
 <h4> How to execute the test </h4>
-  1. Open the command prompt and navigate to the root directory of the project
-  2. Issue mvn test command
-  3. Both the API tests and User interface tests starts executing one after another
+  <p>1. Open the command prompt and navigate to the root directory of the project</p>
+  <p>2. Issue mvn test command</p>
+  <p>3. Both the API tests and User interface tests starts executing one after another</p>
   
 
 
@@ -62,7 +62,7 @@ UI tests feature file location:  src/test/resources/userInterfaceTests/AddProduc
 
   
 <h4> Configuration of CI/CD </h4>
- 1. Creating and configuring the jenkins/Azure agent by providing the link to source code in git
- 2. As part of configuration adding mvn test command for the job created
- 3. Setting necessary schedule as and when needed to trigger the execution 
+ <p>1. Creating and configuring the jenkins/Azure agent by providing the link to source code in git</p>
+  <p>2. As part of configuration adding mvn test command for the job created</p>
+  <p>3. Setting necessary schedule as and when needed to trigger the execution </p>
   
