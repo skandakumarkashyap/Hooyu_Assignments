@@ -1,4 +1,4 @@
-# Hoooyu_Assignments
+# Hooyu_Assignments
 <h1>Assignments in UI and API automation</h1>
 <h2> Rest assured + Cucumber + Junit + Maven project</h2>
 
